@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mythic Draw</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <canvas id="particleField" aria-hidden="true"></canvas>
+    <video id="camera" playsinline muted></video>
+
+    <main class="stage" aria-label="mythic card draw">
+      <div class="sigil" aria-hidden="true"></div>
+      <section class="card-orbit" id="cardOrbit" aria-live="polite"></section>
+      <div class="summon-glow" aria-hidden="true"></div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/hands/hands.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@mediapipe/camera_utils/camera_utils.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

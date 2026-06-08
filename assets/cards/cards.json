@@ -1,0 +1,274 @@
+[
+  {
+    "id": "light",
+    "name": "The Light",
+    "zh": "光牌",
+    "rarity": "SSR",
+    "image": "./assets/cards/light.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowLight.jpg"
+  },
+  {
+    "id": "dark",
+    "name": "The Dark",
+    "zh": "暗牌",
+    "rarity": "SSR",
+    "image": "./assets/cards/dark.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowDark.jpg"
+  },
+  {
+    "id": "time",
+    "name": "The Time",
+    "zh": "时牌",
+    "rarity": "SSR",
+    "image": "./assets/cards/time.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowTime.jpg"
+  },
+  {
+    "id": "return",
+    "name": "The Return",
+    "zh": "戾牌",
+    "rarity": "SSR",
+    "image": "./assets/cards/return.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowReturn.jpg"
+  },
+  {
+    "id": "firey",
+    "name": "The Firey",
+    "zh": "火牌",
+    "rarity": "SR",
+    "image": "./assets/cards/firey.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowFirey.jpg"
+  },
+  {
+    "id": "watery",
+    "name": "The Watery",
+    "zh": "水牌",
+    "rarity": "SR",
+    "image": "./assets/cards/watery.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowWatery.jpg"
+  },
+  {
+    "id": "windy",
+    "name": "The Windy",
+    "zh": "风牌",
+    "rarity": "SR",
+    "image": "./assets/cards/windy.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowWindy.jpg"
+  },
+  {
+    "id": "earthy",
+    "name": "The Earthy",
+    "zh": "地牌",
+    "rarity": "SR",
+    "image": "./assets/cards/earthy.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowEarthy.jpg"
+  },
+  {
+    "id": "thunder",
+    "name": "The Thunder",
+    "zh": "雷牌",
+    "rarity": "SR",
+    "image": "./assets/cards/thunder.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowThunder.jpg"
+  },
+  {
+    "id": "wood",
+    "name": "The Wood",
+    "zh": "树牌",
+    "rarity": "SR",
+    "image": "./assets/cards/wood.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowWood.jpg"
+  },
+  {
+    "id": "shadow",
+    "name": "The Shadow",
+    "zh": "影牌",
+    "rarity": "SR",
+    "image": "./assets/cards/shadow.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowShadow.jpg"
+  },
+  {
+    "id": "shield",
+    "name": "The Shield",
+    "zh": "盾牌",
+    "rarity": "SR",
+    "image": "./assets/cards/shield.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowShield.jpg"
+  },
+  {
+    "id": "sword",
+    "name": "The Sword",
+    "zh": "剑牌",
+    "rarity": "SR",
+    "image": "./assets/cards/sword.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowSword.jpg"
+  },
+  {
+    "id": "create",
+    "name": "The Create",
+    "zh": "创牌",
+    "rarity": "SR",
+    "image": "./assets/cards/create.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowCreate.jpg"
+  },
+  {
+    "id": "dream",
+    "name": "The Dream",
+    "zh": "梦牌",
+    "rarity": "SR",
+    "image": "./assets/cards/dream.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowDream.jpg"
+  },
+  {
+    "id": "maze",
+    "name": "The Maze",
+    "zh": "迷牌",
+    "rarity": "SR",
+    "image": "./assets/cards/maze.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowMaze.jpg"
+  },
+  {
+    "id": "flower",
+    "name": "The Flower",
+    "zh": "花牌",
+    "rarity": "R",
+    "image": "./assets/cards/flower.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowFlower.jpg"
+  },
+  {
+    "id": "fly",
+    "name": "The Fly",
+    "zh": "翔牌",
+    "rarity": "R",
+    "image": "./assets/cards/fly.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowFly.jpg"
+  },
+  {
+    "id": "jump",
+    "name": "The Jump",
+    "zh": "跳牌",
+    "rarity": "R",
+    "image": "./assets/cards/jump.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowJump.jpg"
+  },
+  {
+    "id": "mirror",
+    "name": "The Mirror",
+    "zh": "镜牌",
+    "rarity": "R",
+    "image": "./assets/cards/mirror.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowMirror.jpg"
+  },
+  {
+    "id": "glow",
+    "name": "The Glow",
+    "zh": "灯牌",
+    "rarity": "R",
+    "image": "./assets/cards/glow.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowGlow.jpg"
+  },
+  {
+    "id": "sweet",
+    "name": "The Sweet",
+    "zh": "甜牌",
+    "rarity": "R",
+    "image": "./assets/cards/sweet.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowSweet.jpg"
+  },
+  {
+    "id": "little",
+    "name": "The Little",
+    "zh": "小牌",
+    "rarity": "R",
+    "image": "./assets/cards/little.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowLittle.jpg"
+  },
+  {
+    "id": "big",
+    "name": "The Big",
+    "zh": "大牌",
+    "rarity": "R",
+    "image": "./assets/cards/big.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowBig.jpg"
+  },
+  {
+    "id": "dash",
+    "name": "The Dash",
+    "zh": "驱牌",
+    "rarity": "R",
+    "image": "./assets/cards/dash.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowDash.jpg"
+  },
+  {
+    "id": "float",
+    "name": "The Float",
+    "zh": "浮牌",
+    "rarity": "R",
+    "image": "./assets/cards/float.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowFloat.jpg"
+  },
+  {
+    "id": "bubbles",
+    "name": "The Bubbles",
+    "zh": "泡牌",
+    "rarity": "R",
+    "image": "./assets/cards/bubbles.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowBubbles.jpg"
+  },
+  {
+    "id": "song",
+    "name": "The Song",
+    "zh": "歌牌",
+    "rarity": "R",
+    "image": "./assets/cards/song.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowSong.jpg"
+  },
+  {
+    "id": "voice",
+    "name": "The Voice",
+    "zh": "声牌",
+    "rarity": "R",
+    "image": "./assets/cards/voice.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowVoice.jpg"
+  },
+  {
+    "id": "lock",
+    "name": "The Lock",
+    "zh": "锁牌",
+    "rarity": "R",
+    "image": "./assets/cards/lock.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowLock.jpg"
+  },
+  {
+    "id": "libra",
+    "name": "The Libra",
+    "zh": "秤牌",
+    "rarity": "R",
+    "image": "./assets/cards/libra.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowLibra.jpg"
+  },
+  {
+    "id": "move",
+    "name": "The Move",
+    "zh": "移牌",
+    "rarity": "R",
+    "image": "./assets/cards/move.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowMove.jpg"
+  },
+  {
+    "id": "silent",
+    "name": "The Silent",
+    "zh": "静牌",
+    "rarity": "R",
+    "image": "./assets/cards/silent.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowSilent.jpg"
+  },
+  {
+    "id": "illusion",
+    "name": "The Illusion",
+    "zh": "幻牌",
+    "rarity": "R",
+    "image": "./assets/cards/illusion.jpg",
+    "source": "https://ccsakura.fandom.com/wiki/File:ClowIllusion.jpg"
+  }
+]

@@ -1,0 +1,5 @@
+﻿{
+  "R": ["./assets/audio/r_magic.ogg", "./assets/audio/r_sparkle.ogg"],
+  "SR": ["./assets/audio/sr_magic.ogg", "./assets/audio/sr_words.wav"],
+  "SSR": ["./assets/audio/ssr_fantasy.mp3", "./assets/audio/ssr_heal.wav"]
+}
